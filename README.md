@@ -4,7 +4,7 @@
 
 | Maite Soza | aaaoko         | aaaoko@uc.cl | Todo   |
 
-
+-------------------------------------------------------
 
 Creador del repositorio -------------------> Maite
 
